@@ -39,6 +39,8 @@ const localRestaurantLocations = [
   "Fuljhore, Durgapur"
 ];
 
+const restaurants=[];
+
 for(let i=0; i<100; i++){
 
     const obj={};
